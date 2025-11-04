@@ -12,6 +12,8 @@
 
 Created an interactive HR dashboard using Power BI and SQL to analyze employee data such as ethnicity ,gender diversity, and 
 department-wise distribution etc.The dashboard helps HR teams monitor workforce trends and make data-driven decisions.
+<img width="726" height="820" alt="hr dashboard scrnshot" src="https://github.com/user-attachments/assets/707daa9c-e9fe-4991-9d0f-a1c2818dc1e4" />
+
 
 ### Tool Used
 
